@@ -1,1 +1,1 @@
-## Solutions of codeWars questions with python
+# Solutions of codeWars questions with python
